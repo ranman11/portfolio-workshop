@@ -3,12 +3,14 @@ title = "About Me"
 slug = "about"
 +++
 
-Hi! My name is John Doe.
+# Heading 1
 
-I am a student studying a Bachelors of Dog Training at the University of Technology Sydney.
+## Heading 2
 
-I like dogs, dogs, and dogs.
+### Heading 3
 
-My future dreams and aspirations are to own at least 20 Golden Retrievers.
+Hi! My name is Robi Andres.
+
+I am a Master of Information Technology at the University of Technology Sydney.
 
 ![Golden Retrievers](../images/golden-retrievers.jpg)
