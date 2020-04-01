@@ -1,4 +1,4 @@
-baseurl = "https://utscyberblogexample.netlify.com/"
+baseurl = "https://robiandres.netlify.com/"
 title = "johndoe"
 
 theme = "hugo-coder"
